@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.122986
+  brandStrength: 0.5428345
+  lightness: 0.8286788
+  rhythmicContrast: 0.3958109
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+typography_spectrum: 0.2379162
+name: 'Hustle: the art of startup sales'
